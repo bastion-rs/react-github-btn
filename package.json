@@ -24,6 +24,6 @@
   },
   "homepage": "https://buttons.github.io/",
   "dependencies": {
-    "github-buttons": "^2.3.0"
+    "github-buttons": "bastion-rs/github-buttons"
   }
 }
